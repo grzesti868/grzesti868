@@ -7,7 +7,7 @@ My name is Grzegorz Stich and I'm an Solution Support Engineer at SAP. I'm from 
 - 📫 How to reach me: https://linkedin.com/in/💻-grzegorz-stich-617777169
 
 
-### Languages and Tools:
+### 🔧 Languages and Tools:
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Kubernetes" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" style="padding-right:10px;" />
