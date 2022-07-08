@@ -1,6 +1,5 @@
-### Hi there 
-![image](https://user-images.githubusercontent.com/52802902/177962806-dc472235-e1a3-42dd-ba4d-3dd4e0788f1c.png)
-
+### 
+![](https://github.com/grzesti868/grzesti868/blob/main/star-wars-obi-wan-kenobi.gif)
 
 <!--
 **grzesti868/grzesti868** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
