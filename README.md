@@ -4,8 +4,7 @@ My name is Grzegorz Stich and I'm an Solution Support Engineer at SAP. I'm from 
 
 - 🔭 I’m currently working on automatic tool to retriving informations from Kubernetes and tool for running tests, both in Python.
 - 🌱 I’m currently learning Kubernetes, Ansible, AWS CDK and related other Devops' related topics.
-- 📫 How to reach me: https://linkedin.com/in/💻-grzegorz-stich-617777169
-
+- 📫 How to reach me: <a href="https://linkedin.com/in/💻-grzegorz-stich-617777169"> Add me on LinkedIn 👯</a>
 
 ### 🔧 Languages and Tools:
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
