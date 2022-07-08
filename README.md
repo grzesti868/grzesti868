@@ -21,9 +21,8 @@ My name is Grzegorz Stich and I'm an Solution Support Engineer at SAP. I'm from 
 <img align="left" alt="Jenkins" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Azure" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Dynatrace" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Dynatrace" width="26px" src="https://github.com/grzesti868/grzesti868/blob/main/dynatrace-icon-svgrepo-com.svg" style="padding-right:10px;" />
 <img align="left" alt="Cisco" width="26px" src="https://github.com/grzesti868/grzesti868/blob/main/cisco_logo.svg" style="padding-right:10px;" />
 <img align="left" alt="Bash" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Cisco" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Cisco" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Cisco" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Tomcat" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Apache" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" style="padding-right:10px;" />
