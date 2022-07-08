@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/grzesti868/grzesti868/blob/main/star-wars-obi-wan-kenobi.gif">
+![](https://github.com/grzesti868/grzesti868/blob/main/star-wars-obi-wan-kenobi.gif)
 
 My name is Grzegorz Stich and I'm an Solution Support Engineer at SAP. I'm from Poland living in Gliwice and I studied IT on Silesian University of Technology.
 
