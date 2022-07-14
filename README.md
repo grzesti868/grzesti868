@@ -26,5 +26,5 @@ My name is Grzegorz Stich and I'm an Solution Support Engineer at SAP. I'm from 
 <img align="left" alt="Apache" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Jira" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Grafana" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Kibana" width="26px" src="https://github.com/grzesti868/grzesti868/blob/main/elasticco_kibana-icon.svg" style="padding-right:10px;" />
 
